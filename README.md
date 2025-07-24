@@ -34,6 +34,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigandhi1310&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vaishnavigandhi1310)
 
 ---
 
