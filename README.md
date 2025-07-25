@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gandhi</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer | Kafka Enthusiast </h3>
+<h3 align="center">🚀 Full Stack Engineer | MERN + Kafka + AWS | Passionate about Scalable Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaishnavigandhi1310&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavigandhi1310" />
@@ -7,31 +7,40 @@
 
 ---
 
-🔭 I’m currently building projects on **MERN Stack, Kafka, and AWS**
-
-🌱 Exploring **Next.js, Firebase, and Vercel**
-
-💬 Ask me about **React, Node.js, MongoDB, Kafka, Firebase, and CI/CD**
-
-🤝 I’m open to collaborating on **Open Source & Real-World Impact Projects**
-
-📫 Reach me at: [vaishnaviii8319@gmail.com](mailto:vaishnaviii8319@gmail.com)
-
-🌐 Visit my Portfolio: [vaishnavi-portfolio-six.vercel.app](https://vaishnavi-portfolio-six.vercel.app/)
+🔭 Currently building **real-world production-grade web applications** using MERN, Kafka, and AWS.  
+🌱 Exploring **Next.js, Microservices Architecture, and Cloud DevOps workflows.**  
+🧠 Experienced with **RESTful APIs, Kafka streaming, JWT Auth, and CI/CD pipelines.**  
+💬 Ask me about **MongoDB performance, async queues, scalable backend systems, and secure web APIs.**  
+📈 Always open to **collaborating on impactful projects**, contributing to open-source, and learning from senior devs.  
+📫 Reach me: [vaishnaviii8319@gmail.com](mailto:vaishnaviii8319@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 [Unified Civic Services Portal](https://github.com/vaishnavigandhi1310)
+> A centralized civic platform powered by **Kafka for real-time grievance streaming**, **JWT authentication**, and **AWS S3** for media handling.
+
+#### 🔹 [StudyNotion EdTech LMS](https://study-notion-full-stack.vercel.app/)
+> Full-stack learning platform with **role-based dashboards**, **Razorpay integration**, and secure routing.
+
+#### 🔹 [Spend Smartly – Invoice App](https://spend-smartly-inky.vercel.app/login)
+> Invoice automation for small businesses. Used by 500+ users. Built with performance-focused MongoDB design.
 
 ---
 
@@ -48,12 +57,21 @@
 
 ---
 
+### 🎓 Certifications
+
+- ✅ Oracle AI Vector Search – *Oracle, 2025*
+- ✅ Postman Student Expert – *Postman*
+- ✅ Deloitte Data Analytics Simulation – *Forage*
+- ✅ SQL (Basic) – *HackerRank*
+
+---
+
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gandhi-a50512346/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaishnavi-portfolio-six.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavigandhi1310)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavigandhi1310)
 
 ---
 
-🙌 *Let’s connect, build, and grow together!*
+📌 *Built with ❤️ to solve real-world problems with scalable code.*
